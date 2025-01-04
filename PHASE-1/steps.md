@@ -123,7 +123,16 @@ only the url need to be changed, for manven-release and maven-snapshots.
 
 <img width="1006" alt="image" src="https://github.com/user-attachments/assets/89d12bba-511b-41ab-bfdd-a647f87ac54d" />
 
+other steps of pipeline will be available soon
 
+
+
+
+
+
+now we are create kubernetes cluster 
+
+after the 
 
 
 
